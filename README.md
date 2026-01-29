@@ -78,7 +78,4 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-saifu-a8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<img src="https://hits.sh/github/mr-saifu-a8.svg" />
