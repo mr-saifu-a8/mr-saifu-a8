@@ -78,6 +78,20 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 </div>
 
 ---
+
+### 🏆 Achievements & Activity
+
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmr-saifu-a8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-saifu-a8&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  
+  <p>
+    <br>
+    <em>Thanks for visiting! Let's build something amazing together. 🚀</em>
+  </p>
 </div>
