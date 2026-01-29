@@ -79,19 +79,21 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 
 ---
 
-### 🏆 Achievements & Activity
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-saifu-a8&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning...;Let's+Collaborate!" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  
-  <p>
-    <br>
-    <em>Thanks for visiting! Let's build something amazing together. 🚀</em>
-  </p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-saifu-a8&theme=radical&hide_border=true&show_icons=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-saifu-a8&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-saifu-a8&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <em>Thanks for visiting my profile! 🚀</em>
 </div>
