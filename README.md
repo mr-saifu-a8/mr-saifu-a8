@@ -78,4 +78,5 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 </div>
 
 ---
-<img src="https://hits.sh/github/mr-saifu-a8.svg" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=mr-saifu-a8" />
+
