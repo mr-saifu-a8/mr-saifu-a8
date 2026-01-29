@@ -69,7 +69,7 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-saifu-a8&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-saifu-a8&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-saifu-a8&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mr-saifu-a8&theme=radical&hide_border=true" alt="streak graph" />
