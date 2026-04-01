@@ -128,6 +128,47 @@ const saif: Developer = {
   openTo     : ["Innovative Web Projects", "Open Source"],
   contact    : "saifstack25@gmail.com",
 };
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0a1628&height=220&section=header&text=Saif%20Ali%20Khan&fontSize=62&fontColor=61DAFB&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20Three.js%20%C2%B7%20UI%2FUX&descAlignY=62&descSize=17&descColor=8b949e" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-saifu)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifstack25@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_saifu_a8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+%7C+Three.js+%7C+GSAP+%7C+Framer+Motion;Bridging+Design+%26+Engineering+%E2%9C%A8;Always+Learning+%2F%2F+Always+Shipping" alt="Typing SVG" />
+
+</div>
+
+---
+
+## `>_ whoami`
+
+```typescript
+const saif: Developer = {
+  name     : "Saif Ali Khan",
+  title    : "Full Stack Developer",
+  stack    : ["MongoDB", "Express.js", "React", "Node.js"],
+  location : "India 🇮🇳",
+  status   : "Final-year Diploma · Building in public",
+
+  currently: {
+    building : "Full-stack apps — REST APIs, Auth, Realtime features",
+    learning : ["Advanced Backend Architecture", "System Design", "AWS"],
+    exploring: ["Three.js", "GSAP animations", "Framer Motion"],
+  },
+
+  superpower : "3D interfaces + smooth animations that feel alive ⚡",
+  openTo     : ["Innovative Web Projects", "Open Source"],
+  contact    : "saifstack25@gmail.com",
+};
+
+
 ```
 
 ---
@@ -206,54 +247,6 @@ const saif: Developer = {
 </picture>
 
 </div>
-
-<details>
-<summary><b>⚙️ Snake Setup — Click to expand</b></summary>
-
-<br/>
-
-**Step 1 —** Create file `.github/workflows/snake.yml` in your profile repo (`mr-saifu-a8/mr-saifu-a8`)
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2 —** `Settings → Actions → General → Workflow permissions` → enable **Read and write permissions**
-
-**Step 3 —** Go to **Actions tab** → select `Generate Snake Animation` → click **Run workflow**
-
-Snake will auto-update every 12 hours after setup.
-
-</details>
 
 ---
 
