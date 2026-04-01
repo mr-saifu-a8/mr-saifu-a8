@@ -83,21 +83,6 @@
 
 </div>
 
----
-
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 ## 🏆 &nbsp;GitHub Trophies
 
