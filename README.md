@@ -111,16 +111,6 @@
 
 <div align="center">
 
-### 💡 &nbsp;Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=mr-saifu-a8&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
 <br/><br/>
