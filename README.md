@@ -89,127 +89,137 @@ I am a developer focused on the **MERN Stack**, currently transitioning from fro
 </div> -->
 
 
-
-
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saif%20Ali%20Khan&fontSize=60&fontColor=61DAFB&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20MERN%20Stack%20·%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0a1628&height=220&section=header&text=Saif%20Ali%20Khan&fontSize=62&fontColor=61DAFB&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20Three.js%20%C2%B7%20UI%2FUX&descAlignY=62&descSize=17&descColor=8b949e" />
 
-<!-- Social Badges -->
-<p>
-  <a href="https://linkedin.com/in/mr-saifu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saifstack25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mr_saifu_a8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+Three.js+%7C+GSAP+Animations;Bridging+Design+%26+Engineering;Open+to+Collaborate+%E2%9C%A8" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-saifu)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifstack25@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_saifu_a8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+%7C+Three.js+%7C+GSAP+%7C+Framer+Motion;Bridging+Design+%26+Engineering+%E2%9C%A8;Always+Learning+%2F%2F+Always+Shipping" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `>_ whoami`
 
-```ts
-const saif = {
+```typescript
+const saif: Developer = {
   name     : "Saif Ali Khan",
-  role     : "Full Stack Developer (MERN)",
-  status   : "Final-year Diploma Student",
+  title    : "Full Stack Developer",
+  stack    : ["MongoDB", "Express.js", "React", "Node.js"],
   location : "India 🇮🇳",
-  focus    : ["Scalable Web Apps", "3D Interfaces", "Smooth Animations"],
-  learning : ["Advanced Backend Architecture", "System Design", "AWS"],
-  openTo   : ["Innovative Web Projects", "Open Source Contributions"],
-  superpower: "Integrating Three.js 3D elements with interactive UI logic ⚡",
+  status   : "Final-year Diploma · Building in public",
+
+  currently: {
+    building : "Full-stack apps — REST APIs, Auth, Realtime features",
+    learning : ["Advanced Backend Architecture", "System Design", "AWS"],
+    exploring: ["Three.js", "GSAP animations", "Framer Motion"],
+  },
+
+  superpower : "3D interfaces + smooth animations that feel alive ⚡",
+  openTo     : ["Innovative Web Projects", "Open Source"],
+  contact    : "saifstack25@gmail.com",
 };
 ```
 
 ---
 
-## `> tech --stack`
+## `>_ tech --stack`
 
 <div align="center">
 
-#### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### ⚛️ Frontend Ecosystem
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-#### 🖥️ Backend & Database
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-#### 🛠️ Tools & Design
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## `> git log --stats`
+## `>_ git log --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-saifu-a8&theme=github_dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9&border_radius=10" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-saifu-a8&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&border_radius=10" height="170" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-saifu-a8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-saifu-a8&theme=github_dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9&ring_color=61DAFB&border_radius=8&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-saifu-a8&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&border_radius=8&langs_count=8" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mr-saifu-a8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## `> contributions --animate`
+## `>_ contributions --watch`
 
 <div align="center">
 
-<!-- Snake Animation — auto-generated via GitHub Actions (setup instructions below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/mr-saifu-a8/mr-saifu-a8/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
 
 </div>
 
-> ⚙️ **Snake Setup:** Create `.github/workflows/snake.yml` in your profile repo with the workflow below ↓
-
 <details>
-<summary><b>📋 Click to expand — Snake Game GitHub Action Setup</b></summary>
+<summary><b>⚙️ Snake Setup — Click to expand</b></summary>
+
+<br/>
+
+**Step 1 —** Create file `.github/workflows/snake.yml` in your profile repo (`mr-saifu-a8/mr-saifu-a8`)
 
 ```yaml
-# .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -217,7 +227,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate Snake SVG
@@ -228,7 +238,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push output to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -237,41 +247,39 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-> After adding this file, go to **Settings → Actions → General** and enable **"Read and write permissions"** under Workflow permissions. Then manually trigger the action once from the **Actions tab**.
+**Step 2 —** `Settings → Actions → General → Workflow permissions` → enable **Read and write permissions**
+
+**Step 3 —** Go to **Actions tab** → select `Generate Snake Animation` → click **Run workflow**
+
+Snake will auto-update every 12 hours after setup.
 
 </details>
 
 ---
 
-## `> cat about.me`
+## `>_ cat about.me`
 
-<table align="center">
-  <tr>
-    <td>🔭 <b>Working On</b></td>
-    <td>Full-stack apps with Node.js, Express & MongoDB</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Learning</b></td>
-    <td>Advanced Backend Architecture · System Design · AWS</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Specialty</b></td>
-    <td>3D Web Experiences with Three.js + GSAP/Framer Motion</td>
-  </tr>
-  <tr>
-    <td>🤝 <b>Open To</b></td>
-    <td>Innovative Web Projects & Open Source Collaboration</td>
-  </tr>
-  <tr>
-    <td>📬 <b>Contact</b></td>
-    <td><a href="mailto:saifstack25@gmail.com">saifstack25@gmail.com</a></td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:---|:---|
+| 🔭 **Building** | Full-stack apps with Node.js, Express & MongoDB |
+| 🌱 **Learning** | Advanced Backend · System Design · AWS |
+| ⚡ **Specialty** | 3D web experiences — Three.js + GSAP + Framer Motion |
+| 🤝 **Open To** | Innovative projects & Open Source collabs |
+| 🎨 **Also Into** | UI/UX Design, Figma, Adobe Photoshop |
+| 📬 **Reach Me** | saifstack25@gmail.com |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let%27s%20Build%20Something%20Amazing&fontSize=22&fontColor=61DAFB&animation=twinkling&fontAlignY=65"/>
+<img src="https://komarev.com/ghpvc/?username=mr-saifu-a8&style=flat-square&color=61DAFB&label=Profile+Views" alt="Profile Views" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0d1117&height=110&section=footer&text=Let%27s+Build+Something+Amazing&fontSize=20&fontColor=61DAFB&animation=twinkling&fontAlignY=70" />
 
 </div>
